@@ -19,3 +19,9 @@ Task 2![SAVE_20250113_235058](https://github.com/user-attachments/assets/731378e
 ![SAVE_20250113_235151](https://github.com/user-attachments/assets/14abcf2b-2b09-4d90-b3be-016694b62c7a)
 Task 3
 [Task 3.pdf](https://github.com/user-attachments/files/18456323/Task.3.pdf)
+Task 4
+![GTK wave window](https://github.com/user-attachments/assets/1048c453-810f-4ce1-bb9f-dfceab5ee073)
+<img width="285" alt="Instructions" src="https://github.com/user-attachments/assets/36b3a3d6-5b30-40f7-a19c-3f4fba13cb2d" />
+![wave 1](https://github.com/user-attachments/assets/40f2c7fd-0309-4e31-9b48-8874a37532ce)
+![wave 2](https://github.com/user-attachments/assets/7589a39f-21c6-46ab-a2f3-7fe2c8713169)
+![wave 3](https://github.com/user-attachments/assets/08ab5ee6-1c90-411c-aa12-82ecb96828aa)
